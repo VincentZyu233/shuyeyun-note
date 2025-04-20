@@ -1,0 +1,1 @@
+xvfb-run -a qq --no-sandbox

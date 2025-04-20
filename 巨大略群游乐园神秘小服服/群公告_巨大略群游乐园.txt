@@ -1,0 +1,23 @@
+(详细内容见群文件)
+服务器的 计分板、指南小程序：
+    [Web应用 复制链接到浏览器打开]
+        https://mc.vincentzyu233.xyz/qsfrontend/
+    [QQ小程序]
+        本群群应用 或者 QQ首页搜索"跑酷服务器计分板"
+
+巨大略群的游乐园 神秘mc小服服【无正版验证】：
+    [Java 1.21.3 纯原版可进]
+        地址：mc.vincentzyu233.xyz
+    [基岩版 最新版本可进]
+        地址：mc.vincentzyu233.xyz
+        端口：19132
+
+璃子和略的跑酷《寄跑天堂》：
+    [基岩版 内地]
+        地址：mc.vincentzyu233.xyz
+        端口：22222
+    [基岩版 海外]
+        地址：uscc.mc.vincentzyu233.xyz
+        端口：22047
+    [Java版移植]
+        地址：mc.vincentzyu233.xyz

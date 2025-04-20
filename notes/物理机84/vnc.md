@@ -1,0 +1,1 @@
+sudo ss -tuln | grep -E '(:590.*|vnc)'

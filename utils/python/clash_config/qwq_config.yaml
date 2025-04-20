@@ -1,0 +1,25 @@
+proxies:
+  - name: "V2Ray VMess"
+    type: vmess
+    server: 172.98.13.35
+    port: 8848
+    uuid: 90748ddb-2d20-4935-a284-098a2b93d39f
+    alterId: 64 # 默认为 64
+    cipher: auto # 默认为 auto
+    network: tcp # 默认为 tcp
+    tls: false
+    wsPath: ""
+    wsHeaders:
+      Host: ""
+
+proxy-groups:
+  - name: Proxy
+    type: select
+    proxies:
+      - "V2Ray VMess"
+
+rules:
+  - DOMAIN-SUFFIX,google.com,PROXY
+  - DOMAIN-SUFFIX,facebook.com,PROXY
+  - GEOIP,CN,DIRECT
+  - MATCH,PROXY

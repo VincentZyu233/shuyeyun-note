@@ -1,0 +1,1 @@
+bench --site all list-sites

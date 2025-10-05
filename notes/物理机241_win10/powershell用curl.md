@@ -1,0 +1,1 @@
+curl --location --request POST 'http://cn-js-01-bgp-c7k5s6d9.wxmc.top:3625/mcserver/searchServers' | ForEach-Object { $_.ToString().Substring(0,10000) }

@@ -1,7 +1,7 @@
 ```bash
 sudo apt install proxychains
 
-nano /etc/proxychains.conf
+sudo nano /etc/proxychains.conf
 ```
 
 ```conf

@@ -1,0 +1,19 @@
+连接到群u的CS2私服
+
+按~`(波浪号键) 打开控制台使用命令：
+VincentZyu的CS2私服：
+connect sh_aliyun2.vincentzyu233.cn:20723;password VincentZyu
+iuraAura的CS2私服
+connect sh_aliyun2.vincentzyu233.cn:56990
+
+一些指令
+
+  所有在线玩家公屏 .ready 后开始比赛并拼刀选边 拼刀胜利方.stay / .switch 选择是否换边
+  .tech 发起5分钟的技术暂停，最多五次
+  .coach ct 当CT教练 .coach t 当T教练
+  .pause 暂停 .unpause 解除
+  .tac 战术暂停 30 秒
+  双方同时.stop 可以恢复当前回合的备份
+  
+  比赛结束后可联系比赛管理员询问游戏数据CSV
+  友军伤害为开启

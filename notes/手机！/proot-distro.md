@@ -37,3 +37,10 @@ shell
 
 apt update && apt upgrade -y
 apt install <package-name>
+
+
+# ssh
+https://github.com/termux/proot-distro/issues/219
+```bash
+/usr/sbin/sshd
+```

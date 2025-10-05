@@ -1,0 +1,368 @@
+
+(venv) PS G:\GGames\Minecraft\shuyeyun\git-dir\utils\python\zeapi> python .\search_haz_domain.py
+100%|███████████████████████████████████████████████████████████████████████████████████████████| 353/353 [01:59<00:00,  2.96it/s]
+
+--- Domain Price Check Results ---
+
+--- Domains with Price Data ---
+Domain: hazxys.com | New Price: $8.5 | Renew Price: $10.2
+Domain: hazxys.cn | New Price: $4.1 | Renew Price: $5.1
+Domain: hazxys.xyz | New Price: $0.98 | Renew Price: $11.4
+Domain: hazxys.vip | New Price: $3.6 | Renew Price: $5.1
+Domain: hazxys.net | New Price: $11 | Renew Price: $11.2
+Domain: hazxys.org | New Price: $5.6 | Renew Price: $10.2
+Domain: hazxys.info | New Price: $2.5 | Renew Price: $18.1
+Domain: hazxys.tv | New Price: $25 | Renew Price: $25
+Domain: hazxys.co | New Price: $3.4 | Renew Price: $24
+Domain: hazxys.me | New Price: $2.9 | Renew Price: $13.6
+Domain: hazxys.io | New Price: $27 | Renew Price: $39
+Domain: hazxys.online | New Price: $0.98 | Renew Price: $10.8
+Domain: hazxys.tech | New Price: $1.4 | Renew Price: $27.1
+Domain: hazxys.store | New Price: $0.98 | Renew Price: $12.3
+Domain: hazxys.site | New Price: $0.98 | Renew Price: $11.1
+Domain: hazxys.app | New Price: $5.7 | Renew Price: $14
+Domain: hazxys.dev | New Price: $5 | Renew Price: $12
+Domain: hazxys.blog | New Price: $1.6 | Renew Price: $20
+Domain: hazxys.shop | New Price: $0.8 | Renew Price: $24.8
+Domain: hazxys.art | New Price: $2 | Renew Price: $13.6
+Domain: hazxys.ai | New Price: $69 | Renew Price: $69
+Domain: hazxys.game | New Price: $289 | Renew Price: $309
+Domain: hazxys.cloud | New Price: $1.4 | Renew Price: $15
+Domain: hazxys.design | New Price: $2.9 | Renew Price: $20.3
+Domain: hazxys.wiki | New Price: $1.6 | Renew Price: $11.9
+Domain: hazxys.live | New Price: $2 | Renew Price: $9.8
+Domain: hazxys.news | New Price: $5.7 | Renew Price: $22.1
+Domain: hazxys.space | New Price: $0.98 | Renew Price: $11.6
+Domain: hazxys.fun | New Price: $1.1 | Renew Price: $23.1
+Domain: hazxys.win | New Price: $3.6 | Renew Price: $5.2
+Domain: hazxys.link | New Price: $2.1 | Renew Price: $4
+Domain: hazxys.pro | New Price: $2.1 | Renew Price: $18.1
+Domain: hazxys.club | New Price: $1.4 | Renew Price: $10.7
+Domain: hazxys.global | New Price: $20 | Renew Price: $24.7
+Domain: hazxys.group | New Price: $1.7 | Renew Price: $9.8
+Domain: hazxys.ltd | New Price: $3.5 | Renew Price: $5.6
+Domain: hazxys.zone | New Price: $5.2 | Renew Price: $9.1
+Domain: hazxys.rocks | New Price: $2.5 | Renew Price: $13
+Domain: hazxys.systems | New Price: $9.3 | Renew Price: $19.9
+Domain: hazxys.solutions | New Price: $5.5 | Renew Price: $19.9
+Domain: hazxys.digital | New Price: $1.5 | Renew Price: $28.3
+Domain: hazxys.media | New Price: $4 | Renew Price: $10.9
+Domain: hazxys.services | New Price: $6 | Renew Price: $26.3
+Domain: hazxys.tools | New Price: $6.2 | Renew Price: $24.2
+Domain: hazxys.ventures | New Price: $7.5 | Renew Price: $39
+Domain: hazxys.company | New Price: $2.6 | Renew Price: $7
+Domain: hazxys.agency | New Price: $2.6 | Renew Price: $19.1
+Domain: hazxys.management | New Price: $7.5 | Renew Price: $17
+Domain: hazxys.software | New Price: $10 | Renew Price: $26.3
+Domain: hazxys.technology | New Price: $6 | Renew Price: $19.9
+Domain: hazxys.finance | New Price: $8.8 | Renew Price: $42.7
+Domain: hazxys.investments | New Price: $7.5 | Renew Price: $82.9
+Domain: hazxys.holdings | New Price: $43.8 | Renew Price: $43.8
+Domain: hazxys.consulting | New Price: $13.5 | Renew Price: $30
+Domain: hazxys.capital | New Price: $5.7 | Renew Price: $47.9
+Domain: hazxys.partners | New Price: $7.7 | Renew Price: $47.9
+Domain: hazxys.foundation | New Price: $6 | Renew Price: $21.2
+Domain: hazxys.center | New Price: $4.6 | Renew Price: $9.1
+Domain: hazxys.institute | New Price: $5 | Renew Price: $19.1
+Domain: hazxys.academy | New Price: $9.5 | Renew Price: $26.3
+Domain: hazxys.school | New Price: $5 | Renew Price: $12.6
+Domain: hazxys.university | New Price: $10 | Renew Price: $41.7
+Domain: hazxys.college | New Price: $1.4 | Renew Price: $51.8
+Domain: hazxys.education | New Price: $15 | Renew Price: $19.9
+Domain: hazxys.training | New Price: $6.7 | Renew Price: $26.3
+Domain: hazxys.directory | New Price: $2.6 | Renew Price: $18
+Domain: hazxys.guide | New Price: $6.2 | Renew Price: $26.3
+Domain: hazxys.business | New Price: $2 | Renew Price: $9.8
+Domain: hazxys.works | New Price: $4.6 | Renew Price: $26.3
+Domain: hazxys.expert | New Price: $6 | Renew Price: $43.3
+Domain: hazxys.team | New Price: $2.1 | Renew Price: $9.1
+Domain: hazxys.inc | New Price: $51.6 | Renew Price: $2059
+Domain: hazxys.community | New Price: $10.8 | Renew Price: $26.3
+Domain: hazxys.network | New Price: $3.1 | Renew Price: $22.7
+Domain: hazxys.city | New Price: $4 | Renew Price: $9.1
+Domain: hazxys.country | New Price: $2060 | Renew Price: $2060
+Domain: hazxys.estate | New Price: $7.5 | Renew Price: $26.3
+Domain: hazxys.house | New Price: $7.8 | Renew Price: $29.4
+Domain: hazxys.land | New Price: $10 | Renew Price: $26.3
+Domain: hazxys.property | New Price: $14.3 | Renew Price: $103
+Domain: hazxys.rentals | New Price: $5.2 | Renew Price: $26.3
+Domain: hazxys.travel | New Price: $15 | Renew Price: $100
+Domain: hazxys.vacations | New Price: $5 | Renew Price: $26.3
+Domain: hazxys.flights | New Price: $20.7 | Renew Price: $39.6
+Domain: hazxys.tours | New Price: $5 | Renew Price: $42.7
+Domain: hazxys.events | New Price: $11 | Renew Price: $26.3
+Domain: hazxys.tickets | New Price: $326 | Renew Price: $361
+Domain: hazxys.deals | New Price: $3.6 | Renew Price: $26.3
+Domain: hazxys.discount | New Price: $4 | Renew Price: $22.7
+Domain: hazxys.bargains | New Price: $7.8 | Renew Price: $23.9
+Domain: hazxys.coupons | New Price: $2 | Renew Price: $38
+Domain: hazxys.gmbh | New Price: $24.9 | Renew Price: $24.9
+Domain: hazxys.pizza | New Price: $10 | Renew Price: $43.8
+Domain: hazxys.cafe | New Price: $4.5 | Renew Price: $10.9
+Domain: hazxys.restaurant | New Price: $10 | Renew Price: $42.7
+Domain: hazxys.bar | New Price: $2.1 | Renew Price: $52
+Domain: hazxys.pub | New Price: $6.7 | Renew Price: $9.1
+Domain: hazxys.food | New Price: $4.6 | Renew Price: $31.1
+Domain: hazxys.wine | New Price: $5 | Renew Price: $39.6
+Domain: hazxys.beer | New Price: $1.5 | Renew Price: $13.7
+Domain: hazxys.menu | New Price: $27 | Renew Price: $27
+Domain: hazxys.kitchen | New Price: $7.5 | Renew Price: $42.7
+Domain: hazxys.recipes | New Price: $5.2 | Renew Price: $43.8
+Domain: hazxys.delivery | New Price: $4.5 | Renew Price: $39.6
+Domain: hazxys.express | New Price: $5.2 | Renew Price: $26.3
+Domain: hazxys.car | New Price: $279 | Renew Price: $2060
+Domain: hazxys.auto | New Price: $279 | Renew Price: $2060
+Domain: hazxys.bike | New Price: $7.5 | Renew Price: $26.3
+Domain: hazxys.motorcycles | New Price: $1 | Renew Price: $11.6
+Domain: hazxys.boats | New Price: $1 | Renew Price: $11.6
+Domain: hazxys.yachts | New Price: $1 | Renew Price: $11.6
+Domain: hazxys.jetzt | New Price: $5 | Renew Price: $14.9
+Domain: hazxys.reise | New Price: $27.9 | Renew Price: $66
+Domain: hazxys.kaufen | New Price: $5 | Renew Price: $23.7
+Domain: hazxys.online | New Price: $0.98 | Renew Price: $10.8
+Domain: hazxys.haus | New Price: $10 | Renew Price: $22.7
+Domain: hazxys.immobilien | New Price: $7.5 | Renew Price: $22.7
+Domain: hazxys.versicherung | New Price: $115 | Renew Price: $115
+Domain: hazxys.hospital | New Price: $42.7 | Renew Price: $42.7
+Domain: hazxys.health | New Price: $10.3 | Renew Price: $51.8
+Domain: hazxys.fitness | New Price: $4.7 | Renew Price: $26.3
+Domain: hazxys.yoga | New Price: $2.2 | Renew Price: $22.8
+Domain: hazxys.sport | New Price: $340 | Renew Price: $350
+Domain: hazxys.run | New Price: $2.5 | Renew Price: $10.9
+Domain: hazxys.fit | New Price: $1.6 | Renew Price: $13.7
+Domain: hazxys.dance | New Price: $9 | Renew Price: $19.1
+Domain: hazxys.music | New Price: $38.6 | Renew Price: $38.7
+Domain: hazxys.band | New Price: $6.7 | Renew Price: $21.1
+Domain: hazxys.studio | New Price: $6.7 | Renew Price: $25
+Domain: hazxys.video | New Price: $6.7 | Renew Price: $9.1
+Domain: hazxys.movie | New Price: $25.9 | Renew Price: $222
+Domain: hazxys.film | New Price: $65 | Renew Price: $66
+Domain: hazxys.photography | New Price: $5.7 | Renew Price: $19.9
+Domain: hazxys.photo | New Price: $21 | Renew Price: $21
+Domain: hazxys.pictures | New Price: $5 | Renew Price: $9.8
+Domain: hazxys.gallery | New Price: $18 | Renew Price: $18
+Domain: hazxys.camera | New Price: $7.5 | Renew Price: $39.8
+Domain: hazxys.theater | New Price: $10 | Renew Price: $42.7
+Domain: hazxys.fashion | New Price: $2.2 | Renew Price: $22.8
+Domain: hazxys.style | New Price: $7.2 | Renew Price: $24.9
+Domain: hazxys.beauty | New Price: $1 | Renew Price: $11.6
+Domain: hazxys.makeup | New Price: $1 | Renew Price: $11.6
+Domain: hazxys.hair | New Price: $1 | Renew Price: $11.6
+Domain: hazxys.sucks | New Price: $205 | Renew Price: $213
+Domain: hazxys.wtf | New Price: $3.1 | Renew Price: $24.2
+Domain: hazxys.sex | New Price: $10.8 | Renew Price: $88
+Domain: hazxys.porn | New Price: $10.8 | Renew Price: $88
+Domain: hazxys.adult | New Price: $10.8 | Renew Price: $88
+Domain: hazxys.xxx | New Price: $10.8 | Renew Price: $88
+Domain: hazxys.love | New Price: $3.6 | Renew Price: $20.8
+Domain: hazxys.family | New Price: $10 | Renew Price: $24.2
+Domain: hazxys.wedding | New Price: $22.8 | Renew Price: $22.8
+Domain: hazxys.baby | New Price: $1 | Renew Price: $51.9
+Domain: hazxys.kids | New Price: $8.8 | Renew Price: $19.1
+Domain: hazxys.mom | New Price: $1 | Renew Price: $25.8
+Domain: hazxys.dad | New Price: $9 | Renew Price: $10.3
+Domain: hazxys.family | New Price: $10 | Renew Price: $24.2
+Domain: hazxys.pet | New Price: $4.8 | Renew Price: $17
+Domain: hazxys.dog | New Price: $3.6 | Renew Price: $42.7
+Domain: hazxys.cat | New Price: $7.7 | Renew Price: $18.7
+Domain: hazxys.horse | New Price: $22.8 | Renew Price: $22.8
+Domain: hazxys.garden | New Price: $5.7 | Renew Price: $22.8
+Domain: hazxys.flowers | New Price: $92.9 | Renew Price: $20.8
+Domain: hazxys.earth | New Price: $7 | Renew Price: $15.9
+Domain: hazxys.world | New Price: $1.5 | Renew Price: $9.8
+Domain: hazxys.earth | New Price: $7 | Renew Price: $15.9
+Domain: hazxys.eco | New Price: $59.5 | Renew Price: $59.7
+Domain: hazxys.green | New Price: $3.1 | Renew Price: $54.6
+Domain: hazxys.organic | New Price: $10 | Renew Price: $59.2
+Domain: hazxys.bio | New Price: $5 | Renew Price: $54
+Domain: hazxys.farm | New Price: $7.7 | Renew Price: $26.3
+Domain: hazxys.fishing | New Price: $22.8 | Renew Price: $22.8
+Domain: hazxys.ski | New Price: $4.9 | Renew Price: $42.7
+Domain: hazxys.city | New Price: $4 | Renew Price: $9.1
+Domain: hazxys.town | New Price: $5 | Renew Price: $24.2
+Domain: hazxys.capital | New Price: $5.7 | Renew Price: $47.9
+Domain: hazxys.country | New Price: $2060 | Renew Price: $2060
+Domain: hazxys.taxi | New Price: $5.5 | Renew Price: $43.8
+Domain: hazxys.auto | New Price: $279 | Renew Price: $2060
+Domain: hazxys.car | New Price: $279 | Renew Price: $2060
+Domain: hazxys.bike | New Price: $7.5 | Renew Price: $26.3
+Domain: hazxys.motorcycles | New Price: $1 | Renew Price: $11.6
+Domain: hazxys.boats | New Price: $1 | Renew Price: $11.6
+Domain: hazxys.yachts | New Price: $1 | Renew Price: $11.6
+Domain: hazxys.jetzt | New Price: $5 | Renew Price: $14.9
+Domain: hazxys.reise | New Price: $27.9 | Renew Price: $66
+Domain: hazxys.kaufen | New Price: $5 | Renew Price: $23.7
+Domain: hazxys.online | New Price: $0.98 | Renew Price: $10.8
+Domain: hazxys.haus | New Price: $10 | Renew Price: $22.7
+Domain: hazxys.immobilien | New Price: $7.5 | Renew Price: $22.7
+Domain: hazxys.versicherung | New Price: $115 | Renew Price: $115
+Domain: hazxys.hospital | New Price: $42.7 | Renew Price: $42.7
+Domain: hazxys.health | New Price: $10.3 | Renew Price: $51.8
+Domain: hazxys.fitness | New Price: $4.7 | Renew Price: $26.3
+Domain: hazxys.yoga | New Price: $2.2 | Renew Price: $22.8
+Domain: hazxys.sport | New Price: $340 | Renew Price: $350
+Domain: hazxys.run | New Price: $2.5 | Renew Price: $10.9
+Domain: hazxys.fit | New Price: $1.6 | Renew Price: $13.7
+Domain: hazxys.dance | New Price: $9 | Renew Price: $19.1
+Domain: hazxys.music | New Price: $38.6 | Renew Price: $38.7
+Domain: hazxys.band | New Price: $6.7 | Renew Price: $21.1
+Domain: hazxys.studio | New Price: $6.7 | Renew Price: $25
+Domain: hazxys.video | New Price: $6.7 | Renew Price: $9.1
+Domain: hazxys.movie | New Price: $25.9 | Renew Price: $222
+Domain: hazxys.film | New Price: $65 | Renew Price: $66
+Domain: hazxys.photography | New Price: $5.7 | Renew Price: $19.9
+Domain: hazxys.photo | New Price: $21 | Renew Price: $21
+Domain: hazxys.pictures | New Price: $5 | Renew Price: $9.8
+Domain: hazxys.gallery | New Price: $18 | Renew Price: $18
+Domain: hazxys.camera | New Price: $7.5 | Renew Price: $39.8
+Domain: hazxys.theater | New Price: $10 | Renew Price: $42.7
+Domain: hazxys.fashion | New Price: $2.2 | Renew Price: $22.8
+Domain: hazxys.style | New Price: $7.2 | Renew Price: $24.9
+Domain: hazxys.beauty | New Price: $1 | Renew Price: $11.6
+Domain: hazxys.makeup | New Price: $1 | Renew Price: $11.6
+Domain: hazxys.hair | New Price: $1 | Renew Price: $11.6
+Domain: hazxys.sucks | New Price: $205 | Renew Price: $213
+Domain: hazxys.wtf | New Price: $3.1 | Renew Price: $24.2
+Domain: hazxys.sex | New Price: $10.8 | Renew Price: $88
+Domain: hazxys.porn | New Price: $10.8 | Renew Price: $88
+Domain: hazxys.adult | New Price: $10.8 | Renew Price: $88
+Domain: hazxys.xxx | New Price: $10.8 | Renew Price: $88
+Domain: hazxys.love | New Price: $3.6 | Renew Price: $20.8
+Domain: hazxys.family | New Price: $10 | Renew Price: $24.2
+Domain: hazxys.wedding | New Price: $22.8 | Renew Price: $22.8
+Domain: hazxys.baby | New Price: $1 | Renew Price: $51.9
+Domain: hazxys.kids | New Price: $8.8 | Renew Price: $19.1
+Domain: hazxys.mom | New Price: $1 | Renew Price: $25.8
+Domain: hazxys.dad | New Price: $9 | Renew Price: $10.3
+Domain: hazxys.family | New Price: $10 | Renew Price: $24.2
+Domain: hazxys.pet | New Price: $4.8 | Renew Price: $17
+Domain: hazxys.dog | New Price: $3.6 | Renew Price: $42.7
+Domain: hazxys.cat | New Price: $7.7 | Renew Price: $18.7
+Domain: hazxys.horse | New Price: $22.8 | Renew Price: $22.8
+Domain: hazxys.garden | New Price: $5.7 | Renew Price: $22.8
+Domain: hazxys.flowers | New Price: $92.9 | Renew Price: $20.8
+Domain: hazxys.earth | New Price: $7 | Renew Price: $15.9
+Domain: hazxys.world | New Price: $1.5 | Renew Price: $9.8
+Domain: hazxys.earth | New Price: $7 | Renew Price: $15.9
+Domain: hazxys.eco | New Price: $59.5 | Renew Price: $59.7
+Domain: hazxys.green | New Price: $3.1 | Renew Price: $54.6
+Domain: hazxys.organic | New Price: $10 | Renew Price: $59.2
+Domain: hazxys.bio | New Price: $5 | Renew Price: $54
+Domain: hazxys.farm | New Price: $7.7 | Renew Price: $26.3
+Domain: hazxys.fishing | New Price: $22.8 | Renew Price: $22.8
+Domain: hazxys.ski | New Price: $4.9 | Renew Price: $42.7
+Domain: hazxys.city | New Price: $4 | Renew Price: $9.1
+Domain: hazxys.town | New Price: $5 | Renew Price: $24.2
+Domain: hazxys.capital | New Price: $5.7 | Renew Price: $47.9
+Domain: hazxys.country | New Price: $2060 | Renew Price: $2060
+Domain: hazxys.taxi | New Price: $5.5 | Renew Price: $43.8
+
+--- Domains with Errors/Unavailable ---
+Domain: hazxys.cc | Status: Failed | Reason: Request failed: HTTPSConnectionPool(host='zeapi.ink', port=443): Read timed out. (read timeout=10)
+Domain: hazxys.corp | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.hotels | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.savings | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.gala | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.cook | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.transport | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.logistics | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.verkauf | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.kredit | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.geld | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.steuer | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.recht | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.anwalt | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.arzt | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.zahnarzt | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.klinik | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.pharmacy | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.song | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.album | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.home | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.marriage | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.animal | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.zoo | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.plants | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.tree | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.forest | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.hunting | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.outdoor | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.camping | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.hiking | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.snow | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.ocean | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.sea | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.beach | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.lake | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.river | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.water | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.desert | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.mountain | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.valley | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.volcano | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.jungle | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.forest | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.island | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.village | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.state | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.map | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.street | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.road | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.highway | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.train | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.bus | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.uber | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.lyft | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.verkauf | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.kredit | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.geld | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.steuer | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.recht | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.anwalt | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.arzt | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.zahnarzt | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.klinik | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.pharmacy | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.song | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.album | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.home | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.marriage | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.animal | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.zoo | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.plants | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.tree | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.forest | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.hunting | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.outdoor | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.camping | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.hiking | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.snow | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.ocean | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.sea | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.beach | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.lake | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.river | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.water | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.desert | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.mountain | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.valley | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.volcano | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.jungle | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.forest | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.island | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.village | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.state | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.map | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.street | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.road | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.highway | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.train | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.bus | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.uber | Status: Failed | Reason: Failed to fetch price data
+Domain: hazxys.lyft | Status: Failed | Reason: Failed to fetch price data
+
+--- Summary ---
+Total domains checked: 353
+Domains with price data: 251
+Domains with errors: 102
+(venv) PS G:\GGames\Minecraft\shuyeyun\git-dir\utils\python\zeapi> 
